@@ -9,8 +9,12 @@ body {
   padding-top: 0;
 }
 
+h4 a{
+  text-decoration: none;
+}
+
 #title h4{
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-style: normal;
 }
 img {
